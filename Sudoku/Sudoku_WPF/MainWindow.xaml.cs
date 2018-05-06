@@ -86,6 +86,7 @@ namespace Sudoku_WPF
                 {
                     b.Content = "";
                     b.IsEnabled = true;
+                    b.Background = Brushes.Gainsboro;
                 }
 
                 ar = new int[butarr.Length];
