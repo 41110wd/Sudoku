@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku_WPF", "Sudoku_WPF\Sudoku_WPF.csproj", "{E4AC1577-23FF-4943-A373-852CD193F69F}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku", "Sudoku\Sudoku.csproj", "{1C5706F3-FB46-494D-9E23-6E61AA091A3F}"
 EndProject
 Global
@@ -11,6 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4AC1577-23FF-4943-A373-852CD193F69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AC1577-23FF-4943-A373-852CD193F69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AC1577-23FF-4943-A373-852CD193F69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AC1577-23FF-4943-A373-852CD193F69F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1C5706F3-FB46-494D-9E23-6E61AA091A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1C5706F3-FB46-494D-9E23-6E61AA091A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C5706F3-FB46-494D-9E23-6E61AA091A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
